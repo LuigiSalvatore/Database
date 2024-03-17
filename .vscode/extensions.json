@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "adpyke.vscode-sql-formatter",
+        "inferrinizzard.prettier-sql-vscode"
+    ]
+}
